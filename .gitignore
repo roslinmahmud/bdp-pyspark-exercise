@@ -1,0 +1,7 @@
+# Ignore all ZIP files
+*.zip
+
+# Optional: Ignore additional common files/directories
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
